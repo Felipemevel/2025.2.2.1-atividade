@@ -13,15 +13,6 @@ body {
     font-style: normal;
   }
 
-.header-principal {
-    padding: 20px;
-    background-color: #9246f5;
-    height: 110px;
-    text-align: center;
-    color: aliceblue;
-    box-shadow: rgba(0, 0, 0, 0.308) 1px 1px 1px 1px;
-}
-
 .roboto-light {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
@@ -31,6 +22,22 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
   }
+
+.playfair-display {
+    font-family: "Playfair Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header-principal {
+    padding: 20px;
+    background-color: #9246f5;
+    height: 110px;
+    text-align: center;
+    color: aliceblue;
+    box-shadow: rgba(0, 0, 0, 0.308) 1px 1px 1px 1px;
+}
 
 #cores {
     margin:20px;
@@ -99,7 +106,9 @@ body {
 }
 
 .cor-item:hover {
-    transform: scale(1.01);
+    transform: scale(1.008);
+    box-shadow: rgba(198, 123, 221, 0.74) 1px 1px 5px 5px;
+    border-radius: 10px;
 }
 
 .cor-primaria {
@@ -135,11 +144,26 @@ body {
 .tipo-exemplo {
     border-radius: 10px;
     text-align: left;
-    border: 1px solid black;
-    padding: 25px;
+    border: 1px solid #a670ec;
     margin: 20px;
-    box-shadow: rgba(0, 0, 0, 0.308) 1px 1px 1px 1px;
+    box-shadow: rgba(0, 0, 0, 0.308) 0px 1px 2px 2px;
     width: 350px;
+    padding: 25px;
+    transition: 0.3s;
+}
+
+.tipo-exemplo:hover {
+    transform: scale(1.1);
+}
+
+.titulo-fonte {
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+    margin: 0 0 10px 0;
+    border-bottom: 3px solid #cbb3eb;
+    display: block;
+    padding-bottom: 5px;
+    width: 100%;
 }
 
 .tipo-roboto{
@@ -156,4 +180,20 @@ body {
 
 .peso-bold{
     font-weight: 700;
+}
+
+.tipo-playfair {
+    font-family: "Playfair Display", sans-serif;
+}
+
+.tamanho-14 {
+    font-size: 14px;
+}
+
+.tamanho-16 {
+    font-size: 18px;
+}
+
+.tamanho-24 {
+    font-size: 24px;
 }
