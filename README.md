@@ -13,21 +13,21 @@ Trabalhar com elementos visuais e design utilizando CSS3, explorando sistemas de
 ## ✅ Checklist da Atividade
 
 ### 1. Preparação do Ambiente
-- [ ] Realizar o fork deste repositório
+- [X] Realizar o fork deste repositório
   - ou
-    - [ ] Clonar o repositório forkado para sua máquina, 
-    - [ ] Abrir o projeto no editor de código
+    - [X] Clonar o repositório forkado para sua máquina, 
+    - [ X Abrir o projeto no editor de código
   - ou
-    - [ ] Usar o codespace para edição
-- [ ] Construir a programação visual em style.css de acordo com as indicações abaixos
+    - [X] Usar o codespace para edição
+- [X] Construir a programação visual em style.css de acordo com as indicações abaixos
 
 ### 2. Sistemas de Cores em CSS
-- [ ] **2.1** Aplicar cores usando nomes de cores (ex: `red`, `blue`, `green`)
-- [ ] **2.2** Aplicar cores usando sistema hexadecimal (ex: `#FF0000`, `#00FF00`)
-- [ ] **2.3** Aplicar cores usando RGB (ex: `rgb(255, 0, 0)`)
-- [ ] **2.4** Aplicar cores usando RGBA com transparência (ex: `rgba(255, 0, 0, 0.5)`)
-- [ ] **2.5** Aplicar cores usando HSL (ex: `hsl(0, 100%, 50%)`)
-- [ ] **2.6** Criar uma paleta de cores com pelo menos 5 cores diferentes
+- [X] **2.1** Aplicar cores usando nomes de cores (ex: `red`, `blue`, `green`)
+- [X] **2.2** Aplicar cores usando sistema hexadecimal (ex: `#FF0000`, `#00FF00`)
+- [X] **2.3** Aplicar cores usando RGB (ex: `rgb(255, 0, 0)`)
+- [X] **2.4** Aplicar cores usando RGBA com transparência (ex: `rgba(255, 0, 0, 0.5)`)
+- [X] **2.5** Aplicar cores usando HSL (ex: `hsl(0, 100%, 50%)`)
+- [X] **2.6** Criar uma paleta de cores com pelo menos 5 cores diferentes
 
 ### 3. Tipografia
 - [ ] **3.1** Definir `font-family` com fontes do sistema (ex: Arial, Helvetica, sans-serif)
