@@ -47,19 +47,19 @@ Trabalhar com elementos visuais e design utilizando CSS3, explorando sistemas de
 - [X] **4.6** Combinar múltiplas propriedades de background
 
 ### 5. Gradientes CSS
-- [ ] **5.1** Criar um gradiente linear com 2 cores (`linear-gradient`)
-- [ ] **5.2** Criar um gradiente linear com 3 ou mais cores
-- [ ] **5.3** Criar um gradiente linear em diferentes direções (to right, to bottom, 45deg)
-- [ ] **5.4** Criar um gradiente radial (`radial-gradient`)
-- [ ] **5.5** Experimentar com gradientes complexos e múltiplas paradas de cor
+- [X] **5.1** Criar um gradiente linear com 2 cores (`linear-gradient`)
+- [X] **5.2** Criar um gradiente linear com 3 ou mais cores
+- [X] **5.3** Criar um gradiente linear em diferentes direções (to right, to bottom, 45deg)
+- [X] **5.4** Criar um gradiente radial (`radial-gradient`)
+- [X] **5.5** Experimentar com gradientes complexos e múltiplas paradas de cor
 
 ### 6. Integração e Finalização
-- [ ] **6.1** Criar uma página HTML completa aplicando todos os conceitos
-- [ ] **6.2** Garantir que o código HTML seja válido e semântico
-- [ ] **6.3** Garantir que o CSS seja bem organizado e comentado
-- [ ] **6.4** Testar a página em diferentes navegadores
-- [ ] **6.5** Fazer commit e push das alterações
-- [ ] **6.6** Verificar se o resultado está visível no GitHub
+- [X] **6.1** Criar uma página HTML completa aplicando todos os conceitos
+- [X] **6.2** Garantir que o código HTML seja válido e semântico
+- [X] **6.3** Garantir que o CSS seja bem organizado e comentado
+- [X] **6.4** Testar a página em diferentes navegadores
+- [X] **6.5** Fazer commit e push das alterações
+- [X] **6.6** Verificar se o resultado está visível no GitHub
 
 ## 📚 Recursos Úteis
 
