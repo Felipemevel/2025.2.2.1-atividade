@@ -30,21 +30,21 @@ Trabalhar com elementos visuais e design utilizando CSS3, explorando sistemas de
 - [X] **2.6** Criar uma paleta de cores com pelo menos 5 cores diferentes
 
 ### 3. Tipografia
-- [ ] **3.1** Definir `font-family` com fontes do sistema (ex: Arial, Helvetica, sans-serif)
-- [ ] **3.2** Aplicar diferentes tamanhos de fonte com `font-size` (px, em, rem, %)
-- [ ] **3.3** Usar `font-weight` para variar a espessura da fonte (normal, bold, 100-900)
-- [ ] **3.4** Ajustar espaçamento entre linhas com `line-height`
-- [ ] **3.5** Implementar Google Fonts no projeto
-- [ ] **3.6** Usar pelo menos 2 fontes diferentes do Google Fonts
-- [ ] **3.7** Aplicar outros estilos tipográficos (font-style, text-decoration, text-transform)
+- [X] **3.1** Definir `font-family` com fontes do sistema (ex: Arial, Helvetica, sans-serif)
+- [X] **3.2** Aplicar diferentes tamanhos de fonte com `font-size` (px, em, rem, %)
+- [X] **3.3** Usar `font-weight` para variar a espessura da fonte (normal, bold, 100-900)
+- [X] **3.4** Ajustar espaçamento entre linhas com `line-height`
+- [X] **3.5** Implementar Google Fonts no projeto
+- [X] **3.6** Usar pelo menos 2 fontes diferentes do Google Fonts
+- [X] **3.7** Aplicar outros estilos tipográficos (font-style, text-decoration, text-transform)
 
 ### 4. Backgrounds
-- [ ] **4.1** Aplicar `background-color` em diferentes elementos
-- [ ] **4.2** Adicionar `background-image` usando URLs de imagens
-- [ ] **4.3** Controlar o tamanho da imagem de fundo com `background-size` (cover, contain, valores específicos)
-- [ ] **4.4** Posicionar imagens de fundo com `background-position` (center, top, bottom, left, right)
-- [ ] **4.5** Usar `background-repeat` (no-repeat, repeat-x, repeat-y)
-- [ ] **4.6** Combinar múltiplas propriedades de background
+- [X] **4.1** Aplicar `background-color` em diferentes elementos
+- [X] **4.2** Adicionar `background-image` usando URLs de imagens
+- [X] **4.3** Controlar o tamanho da imagem de fundo com `background-size` (cover, contain, valores específicos)
+- [X] **4.4** Posicionar imagens de fundo com `background-position` (center, top, bottom, left, right)
+- [X] **4.5** Usar `background-repeat` (no-repeat, repeat-x, repeat-y)
+- [X] **4.6** Combinar múltiplas propriedades de background
 
 ### 5. Gradientes CSS
 - [ ] **5.1** Criar um gradiente linear com 2 cores (`linear-gradient`)
